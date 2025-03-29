@@ -91,12 +91,3 @@ Ensure you installed all dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-## 🤝 Contributing
-Feel free to fork, submit issues, and contribute to the project!
-
----
-## 📜 License
-This project is licensed under the MIT License.
-
